@@ -3,6 +3,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gourmet Reserve | Find Your Table</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
   <style>
@@ -149,18 +150,6 @@
       grid-template-columns: repeat(3, 1fr);
       gap: 2rem;
       margin-bottom: 2rem;
-    }
-
-    @media (max-width: 1024px) {
-      #results {
-        grid-template-columns: repeat(2, 1fr);
-      }
-    }
-
-    @media (max-width: 768px) {
-      #results {
-        grid-template-columns: 1fr;
-      }
     }
 
     .next-button-container {
@@ -370,6 +359,39 @@
 
     .facet-search-input:focus {
       border-color: var(--primary-color);
+    }
+
+    /* Desktop adjustments */
+    @media (max-width: 1024px) {
+      #results {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    /* Simple Mobile Stack */
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+      header {
+        padding: 2rem 1rem;
+      }
+      .container {
+        flex-direction: column;
+      }
+      aside {
+        width: 100%;
+        padding: 1.5rem;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        box-sizing: border-box;
+      }
+      main {
+        padding: 1.5rem 1rem;
+      }
+      #results {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
