@@ -1,0 +1,110 @@
+{
+  "American": [
+    "American",
+    "Contemporary American",
+    "Californian",
+    "French American",
+    "Southern",
+    "Contemporary Southern",
+    "Low Country",
+    "Comfort Food",
+    "Breakfast",
+    "Burgers"
+  ],
+  "BBQ / Grill": [
+    "Steakhouse",
+    "Steak",
+    "Barbecue",
+    "Brazilian Steakhouse",
+    "Prime Rib"
+  ],
+  "Italian": [
+    "Italian",
+    "Contemporary Italian",
+    "Pizzeria",
+    "Sicilian"
+  ],
+  "Japanese": [
+    "Japanese",
+    "Sushi",
+    "Hibachi"
+  ],
+  "Seafood": [
+    "Seafood",
+    "Pacific Rim",
+    "Hawaii Regional Cuisine",
+    "Northwest",
+    "Hawaiian"
+  ],
+  "Mexican / Latin": [
+    "Mexican",
+    "Traditional Mexican",
+    "Regional Mexican",
+    "Tex-Mex",
+    "Mexican / Southwestern",
+    "Contemporary Mexican",
+    "Latin American",
+    "Latin / Spanish",
+    "Caribbean",
+    "Peruvian",
+    "Argentinean",
+    "Brazilian",
+    "Cuban",
+    "Puerto Rican",
+    "South American"
+  ],
+  "European": [
+    "French",
+    "Contemporary French",
+    "Provencal",
+    "Fondue",
+    "European",
+    "Contemporary European",
+    "Modern European",
+    "Belgian",
+    "Swiss",
+    "German",
+    "Austrian",
+    "Irish",
+    "British",
+    "English",
+    "Russian",
+    "Scandinavian",
+    "Basque",
+    "Eastern European"
+  ],
+  "Mediterranean": [
+    "Mediterranean",
+    "Greek",
+    "Turkish",
+    "Portuguese",
+    "Spanish",
+    "Tapas / Small Plates",
+    "Middle Eastern",
+    "Lebanese",
+    "Persian",
+    "Syrian",
+    "Moroccan"
+  ],
+  "Asian": [
+    "Chinese",
+    "Dim Sum",
+    "Korean",
+    "Vietnamese",
+    "Thai",
+    "Southeast Asian",
+    "Pan-Asian",
+    "Contemporary Asian",
+    "Filipino",
+    "Asian",
+    "Indian",
+    "Contemporary Indian",
+    "South Indian"
+  ],
+  "Health / Dietary": [
+    "Organic",
+    "Vegetarian",
+    "Vegan",
+    "Kosher"
+  ]
+}
